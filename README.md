@@ -1,6 +1,6 @@
 # Store Blogs
 ##### Sistema de Previsão de Risco do Cliente para Concessão de Empréstimos- By Nicolas Soffi
-##### Este é um Aplicativo utilizado para exibir a solução de Ciência de Dados para o problema de ##### predição de Risco do Cliente para concessão de empréstimos.
+##### Este é um Aplicativo utilizado para exibir a solução de Ciência de Dados para o problema de predição de Risco do Cliente para concessão de empréstimos.
 
 ## Localize
 * [Imagens](#imagens)
